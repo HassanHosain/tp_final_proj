@@ -15,3 +15,5 @@ zipfile
 pyarrow
 googletrans
 translate
+ipykernel
+microsofttranlator
