@@ -1,1 +1,5 @@
 ./my_virtualenv/*
+/my_virtualenv/*
+/my_virtualenv/
+my_virtualenv/*
+my_virtualenv/
