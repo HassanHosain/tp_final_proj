@@ -17,3 +17,4 @@ googletrans
 translate
 ipykernel
 microsofttranlator
+re
