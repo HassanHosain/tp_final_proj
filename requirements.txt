@@ -18,3 +18,4 @@ translate
 ipykernel
 microsofttranlator
 re
+time
