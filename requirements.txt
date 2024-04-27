@@ -19,3 +19,7 @@ ipykernel
 microsofttranlator
 re
 time
+textblob
+nltk
+wordcloud
+kaggle
