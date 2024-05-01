@@ -23,3 +23,4 @@ textblob
 nltk
 wordcloud
 kaggle
+psycopg2
